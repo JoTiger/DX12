@@ -21,5 +21,16 @@
     <ClInclude Include="d3dApp.h">
       <Filter>Header Files\Common</Filter>
     </ClInclude>
+    <ClInclude Include="d3dMath.h">
+      <Filter>Header Files\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="testFunc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
